@@ -1,0 +1,42 @@
+img {
+    display: inline-flexbox;
+    width: 10vw;
+    height: 10vw;
+    border: 2px solid rgb(16, 206, 149);
+    margin: 5px;
+    box-sizing: border-box;
+    box-shadow: 5px;
+}
+
+#Message {
+    font-size: 3vw;
+    color: blue;
+    font-style: italic;
+}
+
+button {
+    width: 8vw;
+    height: 4vw;
+    font-size: 2vw;
+    background-color: rgb(82, 189, 118);
+    border-radius: 15%;
+    margin: 20px;
+}
+
+#Section {
+    box-sizing: border-box;
+    box-shadow: 200px;
+    border: 2px solid black;
+}
+
+#Image {
+    width: 35vw;
+    height: fit-content;
+
+}
+#Head{
+    color: rgb(6, 202, 209);
+    font-style: italic;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 2vw;
+}
